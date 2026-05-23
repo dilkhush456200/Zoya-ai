@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Zoya" parent="android:Theme.Material.NoTitleBar.Fullscreen">
+        <item name="android:statusBarColor">#FF020412</item>
+        <item name="android:navigationBarColor">#FF020412</item>
+        <item name="android:windowBackground">#FF020412</item>
+    </style>
+</resources>
